@@ -1,5 +1,3 @@
-
-
 function orderObjectAttributesByKey(unordered) {
     return Object.keys(unordered)
         .sort()
